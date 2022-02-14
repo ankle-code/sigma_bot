@@ -1,6 +1,6 @@
 {
-    "name": "typescript-bot",
-    "version": "1.0.0",
+    "name": "Sigma Bot",
+    "version": "0.0.0",
     "main": "index.js",
     "scripts": {
         "start": "ts-node src/index.ts",
@@ -10,9 +10,9 @@
         "watch": "tsc -w"
     },
     "keywords": [],
-    "author": "",
+    "author": "Hugo Addobbati && Lucas Passeli",
     "license": "ISC",
-    "description": "",
+    "description": "A Discord Bot with for fun commands and features",
     "dependencies": {
         "discord.js": "^13.5.0",
         "dotenv": "^10.0.0",
