@@ -2,6 +2,7 @@ import {
     ChatInputApplicationCommandData,
     CommandInteraction,
     CommandInteractionOptionResolver,
+    CommandInteractionOption,
     GuildMember,
     PermissionResolvable
 } from "discord.js";
